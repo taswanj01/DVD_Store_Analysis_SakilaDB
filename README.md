@@ -1,1 +1,1 @@
-# DVD_Store_Analysis_SakilaDB
+This project is an analysis of the Sakila database. The commenting within the SQL explains the purpose of each query.
